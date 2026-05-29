@@ -1,0 +1,14 @@
+c:\Users\long2\source\repos\Demo2\bin\Debug\net10.0\Demo2.exe
+c:\Users\long2\source\repos\Demo2\bin\Debug\net10.0\Demo2.deps.json
+c:\Users\long2\source\repos\Demo2\bin\Debug\net10.0\Demo2.runtimeconfig.json
+c:\Users\long2\source\repos\Demo2\bin\Debug\net10.0\Demo2.dll
+c:\Users\long2\source\repos\Demo2\bin\Debug\net10.0\Demo2.pdb
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.AssemblyInfoInputs.cache
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.AssemblyInfo.cs
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.csproj.CoreCompileInputs.cache
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.dll
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\refint\Demo2.dll
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.pdb
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\Demo2.genruntimeconfig.cache
+c:\Users\long2\source\repos\Demo2\obj\Debug\net10.0\ref\Demo2.dll
