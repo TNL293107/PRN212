@@ -1,0 +1,13 @@
+<Window x:Class="DemoPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="440" Width="607"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="20">
+        <Button Content="Canvas Panel Demo" Click="OpenCanvas_Click" Height="35"/>
+        <Button Content="WrapPanel Demo" Click="OpenWrap_Click" Height="35"/>
+        <Button Content="StackPanel Demo" Click="OpenStack_Click" Height="35"/>
+        <Button Content="Grid Panel Demo" Click="OpenGrid_Click" Height="35"/>
+        <Button Content="DockPanel Demo" Click="OpenDock_Click" Height="35"/>
+    </StackPanel>
+</Window>
